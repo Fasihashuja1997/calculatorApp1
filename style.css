@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+    padding: 7px;
+    background-color:rgb(0, 0, 8);
+}
+.answer{
+    background-color: rgb(247, 242, 242);
+   
+    width: 96%;
+}
+
+.btn{
+    background-color:grey;
+    width: 45px;
+    margin: 1px;
+    
+}
+.btnOpr{
+    background-color:skyblue;
+    width: 45px;
+    margin: 1px;
+}
+.clrBtn{
+    background-color:red;
+    width: 45px;
+    margin: 1px;
+}
